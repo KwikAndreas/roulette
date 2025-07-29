@@ -132,16 +132,6 @@ npx vercel
 
 Proyek ini adalah open source dan tersedia di bawah lisensi MIT.
 
-## 🤝 Contributing
-
-Kontribusi sangat diterima! Silakan:
-
-1. Fork proyek ini
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
 ## 📞 Support
 
 Jika Anda mengalami masalah atau memiliki pertanyaan, silakan buat issue di repository ini.
